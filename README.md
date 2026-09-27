@@ -1,2 +1,2 @@
 
-git rm COMS xi 2026.docx
+git rm COMS-xi-2026.docx 
