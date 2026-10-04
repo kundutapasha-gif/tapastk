@@ -1,5 +1,5 @@
 theme: midnight \
-title: my page \
+title: my page 
 description:
 
 |sl no.|Name|Sex|age|
